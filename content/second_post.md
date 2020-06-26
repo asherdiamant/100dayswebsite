@@ -1,7 +1,7 @@
 Title: Second post
 Date: 2020-06-27 10:00
 Category: Social
-Slug: second_post
+Slug: second\_post
 Author: Asher
 Summary: A little more content for the test website
 
@@ -10,7 +10,8 @@ Summary: A little more content for the test website
 I'm writing a second post on VSCode, which seems odd for a blog creation tool. But since I'm 
 using *Pelican* to generate the site, any text editor will do.
 
-~~~~ this is a code block, I hope
+ this is a code block, I hope
+ oh, I think I got it now
 
 ### What's next?
 

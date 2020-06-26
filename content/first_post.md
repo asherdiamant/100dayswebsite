@@ -17,4 +17,10 @@ We're writing this in markdown format so we can use two * to indicate a **bold**
 
 We can use a single * around a block of text to indicate an *italicized* word
 
+
+### Let's throw an image in here
+
+![My Bitmoji]({static}/images/asher-bitmoji.png)
+
+
 THE END! (cool story Bro!)
